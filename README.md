@@ -1,4 +1,4 @@
-# calculadora-app
+# calculator-app
 
 > it's a calculator =D
 
